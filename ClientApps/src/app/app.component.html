@@ -1,0 +1,45 @@
+<html>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-lg navbar-toggleable-sm navbar-light bg-primary border-bottom box-shadow mb-3" data-bs-theme="dark">
+          <div class="container-fluid">
+              <a class="navbar-brand" href="/login">ClientApp</a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                      aria-expanded="false" aria-label="Toggle navigation">
+                  <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                  <ul class="navbar-nav flex-grow-1">
+                      <li class="nav-item">
+                          <a class="nav-link text-dark" routerLink="/register">Home</a>
+                      </li><li class="nav-item">
+                          <a class="nav-link text-dark" routerLink="/product/product-list">Product</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link text-dark" routerLink="/product/add-product">Add Product</a>
+                      </li>
+                  </ul>
+              </div>
+          </div>
+      </nav>
+    </header>
+
+    <footer class="border-top footer bg-primary text-muted" style="position: fixed;
+    bottom:0;;" >
+      <div class="container text-center"style="color:white">
+          &copy; 2023 - ClientApp <i class="bi bi-bag-heart-fill"></i> Made By Sadek
+      </div>
+    </footer>
+  
+
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+<router-outlet></router-outlet>
+</body>
+</html>

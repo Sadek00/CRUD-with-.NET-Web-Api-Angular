@@ -1,0 +1,157 @@
+<div class="container">
+    <div class="col-6">
+        <h2 class="text-primary">
+            Edit Product
+        </h2>
+    </div>
+    <main role="main" class="pb-3 col-6">
+<form #form="ngForm" (ngSubmit)="updateProducts()">
+  
+    <div class="form-group">
+        <input type="text" id="id" name="id" [(ngModel)]="product.id" class="form-control" hidden readonly/>
+      <label for="categoryId">Category ID</label>
+      <input type="number" id="categoryId" name="categoryId" [(ngModel)]="product.categoryId" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="categoryName">Category Name</label>
+      <input type="text" id="categoryName" name="categoryName" [(ngModel)]="product.categoryName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="unitName">Unit Name</label>
+      <input type="text" id="unitName" name="unitName" [(ngModel)]="product.unitName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="name">Name</label>
+      <input type="text" id="name" name="name" [(ngModel)]="product.name" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="code">Code</label>
+      <input type="text" id="code" name="code" [(ngModel)]="product.code" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="parentCode">Parent Code</label>
+      <input type="text" id="parentCode" name="parentCode" [(ngModel)]="product.parentCode" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="productBarcode">Product Barcode</label>
+      <input type="text" id="productBarcode" name="productBarcode" [(ngModel)]="product.productBarcode" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="description">Description</label>
+      <textarea id="description" name="description" [(ngModel)]="product.description" class="form-control"></textarea>
+    </div>
+  
+    <div class="form-group">
+      <label for="brandName">Brand Name</label>
+      <input type="text" id="brandName" name="brandName" [(ngModel)]="product.brandName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="sizeName">Size Name</label>
+      <input type="text" id="sizeName" name="sizeName" [(ngModel)]="product.sizeName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="colorName">Color Name</label>
+      <input type="text" id="colorName" name="colorName" [(ngModel)]="product.colorName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="modelName">Model Name</label>
+      <input type="text" id="modelName" name="modelName" [(ngModel)]="product.modelName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="variantName">Variant Name</label>
+      <input type="text" id="variantName" name="variantName" [(ngModel)]="product.variantName" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="oldPrice">Old Price</label>
+      <input type="number" id="oldPrice" name="oldPrice" [(ngModel)]="product.oldPrice" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="price">Price</label>
+      <input type="number" id="price" name="price" [(ngModel)]="product.price" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="costPrice">Cost Price</label>
+      <input type="number" id="costPrice" name="costPrice" [(ngModel)]="product.costPrice" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="stock">Stock</label>
+      <input type="number" id="stock" name="stock" [(ngModel)]="product.stock" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="totalPurchase">Total Purchase</label>
+      <input type="number" id="totalPurchase" name="totalPurchase" [(ngModel)]="product.totalPurchase" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="lastPurchaseDate">Last Purchase Date</label>
+      <input type="text" id="lastPurchaseDate" name="lastPurchaseDate" [(ngModel)]="product.lastPurchaseDate" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="lastPurchaseSupplier">Last Purchase Supplier</label>
+      <input type="text" id="lastPurchaseSupplier" name="lastPurchaseSupplier" [(ngModel)]="product.lastPurchaseSupplier" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="totalSales">Total Sales</label>
+      <input type="number" id="totalSales" name="totalSales" [(ngModel)]="product.totalSales" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="lastSalesDate">Last Sales Date</label>
+      <input type="text" id="lastSalesDate" name="lastSalesDate" [(ngModel)]="product.lastSalesDate" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="lastSalesCustomer">Last Sales Customer</label>
+      <input type="text" id="lastSalesCustomer" name="lastSalesCustomer" [(ngModel)]="product.lastSalesCustomer" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="type">Type</label>
+      <input type="text" id="type" name="type" [(ngModel)]="product.type" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="status">Status</label>
+      <input type="text" id="status" name="status" [(ngModel)]="product.status" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="commissionAmount">Commission Amount</label>
+      <input type="number" id="commissionAmount" name="commissionAmount" [(ngModel)]="product.commissionAmount" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="commissionPer">Commission Percentage</label>
+      <input type="number" id="commissionPer" name="commissionPer" [(ngModel)]="product.commissionPer" class="form-control">
+    </div>
+  
+    <div class="form-group">
+      <label for="pCTN">PCTN</label>
+      <input type="number" id="pCTN" name="pCTN" [(ngModel)]="product.pctn" class="form-control">
+    </div>
+  
+    <button type="submit" class="btn btn-primary">Save</button>
+  </form>
+  
+
+  </main>
+  </div>
+

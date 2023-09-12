@@ -1,0 +1,23 @@
+<div class="container">
+    <main role="main" class="pb-3">
+      <div class="container">
+        <h2>Registration</h2>
+        <form (ngSubmit)="register(registerDto)">
+          <div class="form-group">
+            <label for="username">Username:</label>
+            <input type="text" class="form-control" id="username" name="username" [(ngModel)]="registerDto.name" required>
+          </div>
+          <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="email" class="form-control" id="email" name="email" [(ngModel)]="registerDto.email" required>
+          </div>
+          <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" class="form-control" id="password" name="password" [(ngModel)]="registerDto.password" required>
+          </div>
+          <button type="submit" class="btn btn-primary">Register</button>
+        </form>
+        <a href="/login" class="primary-link">Have Account? Login</a>
+      </div>
+    </main>
+  </div>
