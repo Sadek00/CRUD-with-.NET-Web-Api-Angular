@@ -1,0 +1,51 @@
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.deps.json
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.runtimeconfig.json
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\refint\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.genruntimeconfig.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\ref\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.deps.json
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.runtimeconfig.json
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\refint\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.genruntimeconfig.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.DataAccess\obj\Debug\net7.0\ref\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.deps.json
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.runtimeconfig.json
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\refint\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\Task_Gtr.DataAccess.genruntimeconfig.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.DataAccess\obj\Debug\net7.0\ref\Task_Gtr.DataAccess.dll

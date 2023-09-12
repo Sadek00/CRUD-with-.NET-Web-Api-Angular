@@ -1,0 +1,17 @@
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.deps.json
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.runtimeconfig.json
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.Models.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\bin\Debug\net7.0\EmployeeManagement.Models.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\refint\EmployeeManagement.DataAccess.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\EmployeeManagement.DataAccess.genruntimeconfig.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.DataAccess\obj\Debug\net7.0\ref\EmployeeManagement.DataAccess.dll

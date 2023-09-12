@@ -1,0 +1,36 @@
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\bin\Debug\net7.0\Task_Gtr.Models.deps.json
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\refint\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\EmployeeManagement.Models\obj\Debug\net7.0\ref\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.deps.json
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\refint\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Models\obj\Debug\net7.0\ref\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.deps.json
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\refint\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Models\obj\Debug\net7.0\ref\Task_Gtr.Models.dll

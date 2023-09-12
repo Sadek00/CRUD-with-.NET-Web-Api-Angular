@@ -1,0 +1,34 @@
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.deps.json
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\refint\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.pdb
+C:\Users\Ferdusi\source\repos\Task_Gtr.Repositories\obj\Debug\net7.0\ref\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.deps.json
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Repositories.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.DataAccess.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Models.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.DataAccess.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\bin\Debug\net7.0\Task_Gtr.Models.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.AssemblyReference.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.AssemblyInfoInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.AssemblyInfo.cs
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.csproj.CopyComplete
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\refint\Task_Gtr.Repositories.dll
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\Task_Gtr.Repositories.pdb
+C:\Users\Ferdusi\source\repos\Server Side\Task_Gtr.Repositories\obj\Debug\net7.0\ref\Task_Gtr.Repositories.dll
